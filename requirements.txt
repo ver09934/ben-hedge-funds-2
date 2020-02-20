@@ -3,3 +3,4 @@ numpy
 jupyter
 xlrd
 matplotlib
+xlsxwriter
